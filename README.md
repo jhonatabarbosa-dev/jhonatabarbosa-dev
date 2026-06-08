@@ -1,4 +1,4 @@
-# Olá, eu sou Jhonata Barbosa 👋
+# Jhonata Barbosa 
 
 🎓 Estudante de ADS
 
