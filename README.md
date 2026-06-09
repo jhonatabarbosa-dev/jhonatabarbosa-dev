@@ -1,19 +1,10 @@
-# Jhonata Barbosa 
+# Jhonata Barbosa
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+💻 Desenvolvedor Backend em Formação | Foco em Python
 
-🎓 Estudante de ADS
+## 🛠️ Conhecimentos e Tecnologias
+* **Linguagem:** Python (estudando Programação Orientada a Objetos)
+* **Banco de Dados:** Modelagem de Dados (Entidades, Atributos e Normalização)
 
-💻 Desenvolvedor Backend em formação
-
-## Tecnologias
-
-Python | HTML | CSS | JavaScript | Banco de Dados
-
-## Projetos
-
-- Repúblicas MOC
-- Exercícios de Python
-
-## Atualmente estudando
-
-- SQL
-- APIs
+## 🚀 Projetos
+* [Repúblicas MOC](https://github.com/jhonatabarbosa-dev/republicas-moc) ```
