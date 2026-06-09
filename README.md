@@ -1,9 +1,9 @@
 # Jhonata Barbosa
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) <br>
-💻 Desenvolvedor Backend em Formação | Foco em Python
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Desenvolvedor Backend em Formação | Python
 
 ## 🛠️ Conhecimentos e Tecnologias
-* **Linguagem:** Python (estudando Programação Orientada a Objetos)
+* **Python** (Estudando Programação Orientada a Objetos)
 * **Banco de Dados:** Modelagem de Dados (Entidades, Atributos e Normalização)
 
 ## 🚀 Projetos
