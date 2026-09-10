@@ -6,28 +6,47 @@
 ## 🛠️ Tecnologias estudadas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React / React Native"/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://jsdelivr.net">
-    <source media="(prefers-color-scheme: light)" srcset="https://jsdelivr.net">
-    <img src="https://jsdelivr.net" width="40" alt="GitHub"/>
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
 </p>
 
-
-### Conhecimentos
-
 * **Python** — lógica de programação e Programação Orientada a Objetos em estudo
-* **SQL / MySQL** — criação e manipulação de bancos, tabelas e registros
-* **Banco de Dados** — fundamentos de modelagem, entidades, atributos, relacionamentos e normalização
-* **GitHub** — criação e gerenciamento de repositórios, Codespaces e publicação de código
-* **HTML, CSS e JavaScript** — conhecimentos adquiridos durante a formação
-* **React / React Native** — conhecimentos adquiridos durante a formação
+* **SQL / MySQL** — fundamentos e manipulação de bancos de dados
+* **Django** — estudado durante a formação
+* **HTML5, CSS3 e JavaScript** — conhecimentos adquiridos durante a formação
+* **Node.js e Java** — conhecimentos adquiridos durante a formação
+* **GitHub** — utilização de repositórios e Codespaces
+
+<h2>🎯 Stack em desenvolvimento</h2>
+
+<p>Atualmente, estou direcionando meus estudos para o desenvolvimento Backend com:</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
+  <strong>Python</strong>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" alt="FastAPI"/>
+  <strong>FastAPI</strong>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
+  <strong>MySQL</strong>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/>
+  <strong>Docker</strong>
+</p>
 
 ## 🚀 Projetos
 
@@ -37,6 +56,8 @@ Projeto desenvolvido durante minha formação em Análise e Desenvolvimento de S
 
 ## 📚 Atualmente estudando
 
-* Python — Programação Orientada a Objetos
-* SQL / MySQL
+* Programação Orientada a Objetos com Python
+* SQL e MySQL
 * Desenvolvimento Backend
+* Construção da stack Python + FastAPI + MySQL + Docker
+
