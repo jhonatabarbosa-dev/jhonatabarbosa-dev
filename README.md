@@ -1,10 +1,39 @@
 # Jhonata Barbosa
-🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Desenvolvedor Backend em Formação | Python
 
-## 🛠️ Conhecimentos e Tecnologias
-* **Python** (Estudando Programação Orientada a Objetos)
-* **Banco de Dados:** Modelagem de Dados (Entidades, Atributos e Normalização)
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native"/>
+</p>
+
+### Conhecimentos
+
+* **Python** — lógica de programação e Programação Orientada a Objetos em estudo
+* **SQL / MySQL** — criação e manipulação de bancos, tabelas e registros
+* **Banco de Dados** — fundamentos de modelagem, entidades, atributos, relacionamentos e normalização
+* **Git / GitHub** — fundamentos de versionamento e gerenciamento de projetos
+* **HTML, CSS e JavaScript** — conhecimentos adquiridos durante a formação
+* **React / React Native** — conhecimentos adquiridos durante a formação
 
 ## 🚀 Projetos
-* [Repúblicas MOC](https://github.com/jhonatabarbosa-dev/republicas-moc)
+
+### [Repúblicas MOC](https://github.com/jhonatabarbosa-dev/republicas-moc)
+
+Projeto desenvolvido durante minha formação em Análise e Desenvolvimento de Sistemas.
+
+## 📚 Atualmente estudando
+
+* Python — Programação Orientada a Objetos
+* SQL / MySQL
+* Desenvolvimento Backend
