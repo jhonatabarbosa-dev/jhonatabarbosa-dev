@@ -51,8 +51,10 @@
 ## 🚀 Projetos
 
 ### [Repúblicas MOC](https://github.com/jhonatabarbosa-dev/republicas-moc)
+### https://github.com/jhonatabarbosa-dev/Sistema-de-Gest-o-de-Equipamentos.git
+### https://github.com/jhonatabarbosa-dev/python-curso-em-video-exercicios.git
 
-Projeto desenvolvido durante minha formação em Análise e Desenvolvimento de Sistemas.
+Projetos desenvolvidos durante minha formação em Análise e Desenvolvimento de Sistemas.
 
 ## 📚 Atualmente estudando
 
