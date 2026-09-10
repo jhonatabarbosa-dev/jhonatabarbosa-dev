@@ -1,9 +1,7 @@
 # Jhonata Barbosa
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor Backend em Formação | Python  
-
-🔗 [LinkedIn](www.linkedin.com/in/jhonata-barbosa-510043390)
+💻 Desenvolvedor Backend em Formação | Python 
 
 ## 🛠️ Tecnologias estudadas
 
@@ -55,4 +53,11 @@
 ### [Repúblicas MOC](https://github.com/jhonatabarbosa-dev/republicas-moc)
 
 ### [Sistema de Gestão de Equipamentos](https://github.com/jhonatabarbosa-dev/Sistema-de-Gest-o-de-Equipamentos)
+
+### LinkeIn
+
+<a href="www.linkedin.com/in/jhonata-barbosa-510043390">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 
