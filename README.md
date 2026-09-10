@@ -1,7 +1,9 @@
 # Jhonata Barbosa
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedor Backend em Formação | Python
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor Backend em Formação | Python  
+
+🔗 [LinkedIn](www.linkedin.com/in/jhonata-barbosa-510043390)
 
 ## 🛠️ Tecnologias estudadas
 
