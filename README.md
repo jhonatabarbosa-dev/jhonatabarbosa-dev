@@ -54,9 +54,7 @@
 
 ### [Sistema de Gestão de Equipamentos](https://github.com/jhonatabarbosa-dev/Sistema-de-Gest-o-de-Equipamentos)
 
-### LinkeIn
-
-<a href="www.linkedin.com/in/jhonata-barbosa-510043390">
+<a href="https://www.linkedin.com/in/jhonata-barbosa-510043390">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
