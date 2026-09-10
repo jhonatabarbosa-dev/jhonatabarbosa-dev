@@ -3,24 +3,22 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Desenvolvedor Backend em Formação | Python
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias estudadas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://flaticon.com" width="30">
-    <source media="(prefers-color-scheme: light)" srcset="https://opencodecom.net" width="30">
-    <img alt="GitHub Icon" src="https://flaticon.com" width="30">
-  </picture>
-
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React / React Native"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://jsdelivr.net">
+    <source media="(prefers-color-scheme: light)" srcset="https://jsdelivr.net">
+    <img src="https://jsdelivr.net" width="40" alt="GitHub"/>
+  </picture>
 </p>
+
 
 ### Conhecimentos
 
